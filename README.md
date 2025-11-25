@@ -98,7 +98,8 @@ Data Analyst | Power BI | Excel | SQL | Visualization
 
 ## 📸 Dashboard Preview
 
-![Netflix Dashboard Preview](https://github.com/shreyanshydv5-noodbot/NETFLIX-Power-BI-Dashboard-/blob/main/Netflix%20Power%20BI%20preview.png)
+![Dashboard Preview](https://github.com/shreyanshydv5-noodbot/NETFLIX-Power-BI-Dashboard-/blob/main/Netflix%20Power%20BI%20preview.png?raw=true)
+
 
 
 
